@@ -1,9 +1,1 @@
-if game.PlaceId == 5864786637 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/ThunderHub/Main/Script"))()
-elseif game.PlaceId == 6447798030 then
-    loadstring(game:HttpGet("https://pastebin.com/raw/EhsE0eqh"))()
-elseif game.PlaceId == 698448212 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Robert/main/Script"))()
-else
-    game.Players.LocalPlayer:Kick("This experience is not supported.")
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/ThunderHub/Main/Script"))()
