@@ -1,5 +1,9 @@
 if game.PlaceId == 5864786637 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/ThunderHub/Main/Script"))()
+elseif game.PlaceId == 2 then
+    print("hello world")
+elseif game.PlaceId == 1 then
+print("hello AllFilm")
 elseif game.PlaceId == 698448212 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Robert/main/Script"))()
 else
