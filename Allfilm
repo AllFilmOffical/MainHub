@@ -1,8 +1,8 @@
 if game.PlaceId == 5864786637 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/ThunderHub/Main/Script"))()
-elseif game.PlaceId == 2 then
-    print("hello world")
-elseif game.PlaceId == 1 then
+elseif game.PlaceId == 14708751132 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Untitled-Gym-Game/refs/heads/main/Script"))()
+elseif game.PlaceId == 14561998168 then
 print("hello AllFilm")
 elseif game.PlaceId == 698448212 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Robert/main/Script"))()
