@@ -3,7 +3,7 @@ if game.PlaceId == 5864786637 then
 elseif game.PlaceId == 14708751132 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Untitled-Gym-Game/refs/heads/main/Script"))()
 elseif game.PlaceId == 14561998168 then
-print("hello AllFilm")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Heaven-Stand/refs/heads/main/Script"))()
 elseif game.PlaceId == 698448212 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Robert/main/Script"))()
 else
