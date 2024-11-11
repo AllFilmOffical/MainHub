@@ -1,5 +1,5 @@
 if game.PlaceId == 5864786637 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/ThunderHub/Main/Script"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Stands-Awaking/refs/heads/main/Lua"))()
 elseif game.PlaceId == 14708751132 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/Untitled-Gym-Game/refs/heads/main/Script"))()
 elseif game.PlaceId == 14561998168 then
